@@ -2640,6 +2640,25 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF131538050": {
+    "contest_id": 1592,
+    "language": "GNU C++17",
+    "path": "codeforces\\1592\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Gamer Hemose",
+    "problem_url": "https://codeforces.com/contest/1592/problem/A",
+    "submission_id": "CF131538050",
+    "submission_url": "https://codeforces.com/contest/1592/submission/131538050",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Oct/11/2021 17:37"
+  },
   "CF131601664": {
     "contest_id": 1592,
     "language": "GNU C++17",
