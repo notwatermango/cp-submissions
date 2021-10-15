@@ -2640,6 +2640,26 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF132019915": {
+    "contest_id": 1007,
+    "language": "GNU C++17",
+    "path": "codeforces\\1007\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Reorder the Array",
+    "problem_url": "https://codeforces.com/contest/1007/problem/A",
+    "submission_id": "CF132019915",
+    "submission_url": "https://codeforces.com/contest/1007/submission/132019915",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "math",
+      "sortings",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Oct/15/2021 18:04"
+  },
   "CF132128007": {
     "contest_id": 1029,
     "language": "GNU C++17",
