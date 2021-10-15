@@ -2640,6 +2640,23 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF131999437": {
+    "contest_id": 740,
+    "language": "GNU C++17",
+    "path": "codeforces\\740\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Alyona and copybooks",
+    "problem_url": "https://codeforces.com/contest/740/problem/A",
+    "submission_id": "CF131999437",
+    "submission_url": "https://codeforces.com/contest/740/submission/131999437",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Oct/15/2021 13:38"
+  },
   "CF132002526": {
     "contest_id": 922,
     "language": "GNU C++17",
