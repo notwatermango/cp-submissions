@@ -2640,6 +2640,22 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF132002526": {
+    "contest_id": 922,
+    "language": "GNU C++17",
+    "path": "codeforces\\922\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cloning Toys",
+    "problem_url": "https://codeforces.com/contest/922/problem/A",
+    "submission_id": "CF132002526",
+    "submission_url": "https://codeforces.com/contest/922/submission/132002526",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Oct/15/2021 14:20"
+  },
   "CF132003493": {
     "contest_id": 962,
     "language": "GNU C++17",
