@@ -2640,6 +2640,22 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF132761098": {
+    "contest_id": 1030,
+    "language": "GNU C++17",
+    "path": "codeforces\\1030\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Vasya and Golden Ticket",
+    "problem_url": "https://codeforces.com/contest/1030/problem/C",
+    "submission_id": "CF132761098",
+    "submission_url": "https://codeforces.com/contest/1030/submission/132761098",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Oct/23/2021 15:02"
+  },
   "CF132822198": {
     "contest_id": 1108,
     "language": "GNU C++17",
