@@ -2640,6 +2640,26 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF132747478": {
+    "contest_id": 1328,
+    "language": "GNU C++17",
+    "path": "codeforces\\1328\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "K-th Beautiful String",
+    "problem_url": "https://codeforces.com/contest/1328/problem/B",
+    "submission_id": "CF132747478",
+    "submission_url": "https://codeforces.com/contest/1328/submission/132747478",
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Oct/23/2021 12:26"
+  },
   "CF132747836": {
     "contest_id": 519,
     "language": "GNU C++17",
