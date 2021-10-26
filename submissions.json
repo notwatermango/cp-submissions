@@ -2640,6 +2640,24 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF133178333": {
+    "contest_id": 158,
+    "language": "GNU C++17",
+    "path": "codeforces\\158\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ice Sculptures",
+    "problem_url": "https://codeforces.com/contest/158/problem/D",
+    "submission_id": "CF133178333",
+    "submission_url": "https://codeforces.com/contest/158/submission/133178333",
+    "tags": [
+      "*special problem",
+      "brute force",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Oct/26/2021 23:19"
+  },
   "CF133206550": {
     "contest_id": 545,
     "language": "GNU C++17",
