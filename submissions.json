@@ -2640,6 +2640,23 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF133229627": {
+    "contest_id": 277,
+    "language": "GNU C++17",
+    "path": "codeforces\\277\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Learning Languages",
+    "problem_url": "https://codeforces.com/contest/277/problem/A",
+    "submission_id": "CF133229627",
+    "submission_url": "https://codeforces.com/contest/277/submission/133229627",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "*1400"
+    ],
+    "timestamp": "Oct/27/2021 15:39"
+  },
   "CF133367483": {
     "contest_id": 295,
     "language": "GNU C++17",
