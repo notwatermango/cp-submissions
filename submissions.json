@@ -2640,6 +2640,24 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF133759331": {
+    "contest_id": 1292,
+    "language": "GNU C++17",
+    "path": "codeforces\\1292\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "NEKO's Maze Game",
+    "problem_url": "https://codeforces.com/contest/1292/problem/A",
+    "submission_id": "CF133759331",
+    "submission_url": "https://codeforces.com/contest/1292/submission/133759331",
+    "tags": [
+      "data structures",
+      "dsu",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Oct/31/2021 18:35"
+  },
   "CF133766094": {
     "contest_id": 1320,
     "language": "GNU C++17",
