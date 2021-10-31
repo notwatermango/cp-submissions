@@ -2640,6 +2640,26 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF133766094": {
+    "contest_id": 1320,
+    "language": "GNU C++17",
+    "path": "codeforces\\1320\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Journey Planning",
+    "problem_url": "https://codeforces.com/contest/1320/problem/A",
+    "submission_id": "CF133766094",
+    "submission_url": "https://codeforces.com/contest/1320/submission/133766094",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Oct/31/2021 19:48"
+  },
   "CF133960899": {
     "contest_id": 414,
     "language": "GNU C++17",
