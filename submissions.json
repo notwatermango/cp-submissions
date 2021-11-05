@@ -2640,6 +2640,23 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF134358814": {
+    "contest_id": 677,
+    "language": "GNU C++17",
+    "path": "codeforces\\677\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vanya and Food Processor",
+    "problem_url": "https://codeforces.com/contest/677/problem/B",
+    "submission_id": "CF134358814",
+    "submission_url": "https://codeforces.com/contest/677/submission/134358814",
+    "tags": [
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Nov/05/2021 10:16"
+  },
   "CF134361769": {
     "contest_id": 699,
     "language": "GNU C++17",
