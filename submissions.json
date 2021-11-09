@@ -2640,6 +2640,22 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF134715881": {
+    "contest_id": 1303,
+    "language": "GNU C++17",
+    "path": "codeforces\\1303\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "National Project",
+    "problem_url": "https://codeforces.com/contest/1303/problem/B",
+    "submission_id": "CF134715881",
+    "submission_url": "https://codeforces.com/contest/1303/submission/134715881",
+    "tags": [
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Nov/09/2021 09:00"
+  },
   "CF134756756": {
     "contest_id": 1316,
     "language": "GNU C++17",
