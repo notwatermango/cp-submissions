@@ -1,6 +1,5 @@
 // #include <bits/stdc++.h>
 #include <iostream>
-#include <set>
 #include <vector>
 #include <algorithm>
 #include <iomanip>
@@ -29,7 +28,7 @@ Ostream& operator<<(Ostream& water,  const pair<Ts...>& p){ return water<<"{"<<p
 #define all(x) (x).begin(), (x).end()
 #define sz(x) (int)(x).size()
 #define mp make_pair
-#define int i64
+// #define int i64
 
 notwatermango
 
@@ -47,24 +46,23 @@ signed main(){
 void solv(){
   int n, k;
   cin >> n >> k;
-  int x;
-  set<int> S;
+  vector<int> arr(n),res;
   for (int i = 0; i < n; i++)
   {
-    cin >> x;
-    S.insert(x);
+    cin >> arr[i];
   }
-  if(k == 1){
-    cout << n << '\n';
-    return;
-  }
+  sort(all(arr));
   int ct = 0;
-  for(auto e: S){
+  while(!arr.empty()){
+    int m = arr.back();
+    arr.pop_back();
+    if(arr.empty()){
+      ct++;
+      break;
+    }
+    if(m%k == 0) arr.erase(remove(all(arr), m/k), arr.end());
     ct++;
-    S.erase(e*k); // err when k == 1;
   }
-  
   cout << ct << '\n';
-  
 
 }
