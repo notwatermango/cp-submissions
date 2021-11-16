@@ -2640,6 +2640,23 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF135835237": {
+    "contest_id": 576,
+    "language": "GNU C++17",
+    "path": "codeforces\\576\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vasya and Petya's Game",
+    "problem_url": "https://codeforces.com/contest/576/problem/A",
+    "submission_id": "CF135835237",
+    "submission_url": "https://codeforces.com/contest/576/submission/135835237",
+    "tags": [
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Nov/16/2021 14:09"
+  },
   "CF135838347": {
     "contest_id": 587,
     "language": "GNU C++17",
