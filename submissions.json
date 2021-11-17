@@ -2640,6 +2640,24 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF135976935": {
+    "contest_id": 1242,
+    "language": "GNU C++17",
+    "path": "codeforces\\1242\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Tile Painting",
+    "problem_url": "https://codeforces.com/contest/1242/problem/A",
+    "submission_id": "CF135976935",
+    "submission_url": "https://codeforces.com/contest/1242/submission/135976935",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Nov/17/2021 20:51"
+  },
   "CF135991725": {
     "contest_id": 1264,
     "language": "GNU C++17",
