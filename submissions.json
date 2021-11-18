@@ -2640,6 +2640,23 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF136028449": {
+    "contest_id": 165,
+    "language": "GNU C++17",
+    "path": "codeforces\\165\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Burning Midnight Oil",
+    "problem_url": "https://codeforces.com/contest/165/problem/B",
+    "submission_id": "CF136028449",
+    "submission_url": "https://codeforces.com/contest/165/submission/136028449",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Nov/18/2021 11:04"
+  },
   "CF136030297": {
     "contest_id": 460,
     "language": "GNU C++17",
