@@ -2640,6 +2640,25 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF136053618": {
+    "contest_id": 557,
+    "language": "GNU C++17",
+    "path": "codeforces\\557\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Pasha and Tea",
+    "problem_url": "https://codeforces.com/contest/557/problem/B",
+    "submission_id": "CF136053618",
+    "submission_url": "https://codeforces.com/contest/557/submission/136053618",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Nov/18/2021 17:00"
+  },
   "CF136054782": {
     "contest_id": 580,
     "language": "GNU C++17",
