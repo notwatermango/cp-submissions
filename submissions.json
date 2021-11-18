@@ -2640,6 +2640,25 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF136030297": {
+    "contest_id": 460,
+    "language": "GNU C++17",
+    "path": "codeforces\\460\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Little Dima and Equation",
+    "problem_url": "https://codeforces.com/contest/460/problem/B",
+    "submission_id": "CF136030297",
+    "submission_url": "https://codeforces.com/contest/460/submission/136030297",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Nov/18/2021 11:48"
+  },
   "CF136039366": {
     "contest_id": 510,
     "language": "GNU C++17",
