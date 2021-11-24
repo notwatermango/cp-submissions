@@ -2640,6 +2640,23 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF136697531": {
+    "contest_id": 1610,
+    "language": "GNU C++17",
+    "path": "codeforces\\1610\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Keshi Is Throwing a Party",
+    "problem_url": "https://codeforces.com/contest/1610/problem/C",
+    "submission_id": "CF136697531",
+    "submission_url": "https://codeforces.com/contest/1610/submission/136697531",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Nov/24/2021 08:51"
+  },
   "CF136699001": {
     "contest_id": 1612,
     "language": "GNU C++17",
