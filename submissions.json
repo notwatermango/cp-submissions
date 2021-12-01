@@ -2640,6 +2640,24 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF137569864": {
+    "contest_id": 496,
+    "language": "GNU C++17",
+    "path": "codeforces\\496\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Removing Columns",
+    "problem_url": "https://codeforces.com/contest/496/problem/C",
+    "submission_id": "CF137569864",
+    "submission_url": "https://codeforces.com/contest/496/submission/137569864",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Dec/01/2021 11:59"
+  },
   "CF137604805": {
     "contest_id": 527,
     "language": "GNU C++17",
