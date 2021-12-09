@@ -2640,6 +2640,22 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF138541051": {
+    "contest_id": 1256,
+    "language": "GNU C++17",
+    "path": "codeforces\\1256\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Binary String Minimizing",
+    "problem_url": "https://codeforces.com/contest/1256/problem/D",
+    "submission_id": "CF138541051",
+    "submission_url": "https://codeforces.com/contest/1256/submission/138541051",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Dec/09/2021 20:15"
+  },
   "CF138555932": {
     "contest_id": 1272,
     "language": "GNU C++17",
