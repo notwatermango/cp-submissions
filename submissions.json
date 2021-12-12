@@ -2640,6 +2640,22 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF138852498": {
+    "contest_id": 453,
+    "language": "GNU C++17",
+    "path": "codeforces\\453\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Little Pony and Expected Maximum",
+    "problem_url": "https://codeforces.com/contest/453/problem/A",
+    "submission_id": "CF138852498",
+    "submission_url": "https://codeforces.com/contest/453/submission/138852498",
+    "tags": [
+      "probabilities",
+      "*1600"
+    ],
+    "timestamp": "Dec/12/2021 18:40"
+  },
   "CF139008094": {
     "contest_id": 1131,
     "language": "GNU C++17",
