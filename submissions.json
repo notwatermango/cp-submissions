@@ -2640,6 +2640,24 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF139252940": {
+    "contest_id": 1618,
+    "language": "GNU C++17",
+    "path": "codeforces\\1618\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Array and Operations",
+    "problem_url": "https://codeforces.com/contest/1618/problem/D",
+    "submission_id": "CF139252940",
+    "submission_url": "https://codeforces.com/contest/1618/submission/139252940",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Dec/14/2021 22:06"
+  },
   "CF139281265": {
     "contest_id": 1618,
     "language": "GNU C++17",
