@@ -2640,6 +2640,23 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF139717687": {
+    "contest_id": 605,
+    "language": "GNU C++17",
+    "path": "codeforces\\605\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sorting Railway Cars",
+    "problem_url": "https://codeforces.com/contest/605/problem/A",
+    "submission_id": "CF139717687",
+    "submission_url": "https://codeforces.com/contest/605/submission/139717687",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Dec/18/2021 15:12"
+  },
   "CF139967048": {
     "contest_id": 607,
     "language": "GNU C++17",
