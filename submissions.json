@@ -2640,6 +2640,22 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF141983260": {
+    "contest_id": 909,
+    "language": "GNU C++17",
+    "path": "codeforces\\909\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Python Indentation",
+    "problem_url": "https://codeforces.com/contest/909/problem/C",
+    "submission_id": "CF141983260",
+    "submission_url": "https://codeforces.com/contest/909/submission/141983260",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "Jan/08/2022 16:28"
+  },
   "CF141996708": {
     "contest_id": 1324,
     "language": "GNU C++17",
