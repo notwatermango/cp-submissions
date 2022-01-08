@@ -45,73 +45,44 @@ signed main(){
   return water;
 }
 
+int h,l,r;
+
+bool ok(int a) {
+  a += h;
+  a %= h;
+  return (a >= l && a <= r);
+}
+
 void solv(){
   int n; cin >> n;
-  int h, l, r;
   cin >> h >> l >> r;
-  vector<int> arr(n+1);
-  int time = 0;
-  arr[0] = 0;
-  for (int i = 1; i < n+1; i++)
-  {
-    cin >> arr[i];
-    time += arr[i];
-    arr[i] = time;
-    // arr[i] %= h;
-  }
-
-  vector<vector<int>> dp(n+2, vector<int>(n+2));
-  
-  int res = 0;
+  vector<int> arr(n), sum(n);
+  int al = 0;
   for (int i = 0; i < n; i++)
   {
-    for (int j = 0; j < n; j++)
+    cin >> arr[i];
+    al += arr[i];
+    // al %= h;
+    sum[i] = al;
+  }
+  vector<vector<int>> dp(n+1, vector<int>(n+1));
+  for (int i = 0; i < n; i++)
+  {
+    for (int j = 0; j <= i; j++)
     {
-      if(j > i) break;
-
-
-
-
-
-      dp[i+1][j] = max(dp[i+1][j], dp[i][j]);
-      dp[i+1][j+1] = max(dp[i+1][j+1], dp[i][j]);
-
-      // futsuu
-      if((arr[i+1] - j + h) % h >= l && (arr[i+1] - j + h) % h <= r) { 
-        dp[i+1][j] = max(dp[i+1][j], dp[i][j] + 1);
-      }
-      // hayaku
-      if((arr[i+1] - j - 1 + h) % h >= l && (arr[i+1] - j - 1 + h) % h <= r) { 
-        dp[i+1][j+1] = max(dp[i+1][j+1], dp[i][j] + 1);
-        // mango(mp(i, arr[i]-j-1+h));
-      }
+      int ggf = ok(sum[i] - j);
+      int ggh = ok(sum[i] - j - 1);
+      dp[i+1][j] = max(dp[i+1][j], dp[i][j] + ggf);
+      dp[i+1][j+1] = max(dp[i+1][j+1], dp[i][j] + ggh);
     }
   }
+  int mx = 0;
   for (int i = 0; i < n+1; i++)
   {
-    for (int j = 0; j < n+1; j++)
-    {
-      res = max(res, dp[i][j]);
-    }
+    mx = max(mx, dp[n][i]);
   }
-  cout << res << '\n';
-  // mango(dp);
-  /*
-  for (int i = 0; i < n+1; i++)
-  {
-    if(i <= n+1) printf("%lld : ", arr[i]) ;
-    else printf("  : ");
-    for (int j = 0; j <= n; j++)
-    {
-      printf("%2lld ", dp[i][j]);
-      // cout << dp[i][j] << ' ';
-    }
-    printf("\n");
-  }
+  cout << mx << '\n';
+  mango(dp);
   
-  */
-
-  mango(arr);
-
   
 }
