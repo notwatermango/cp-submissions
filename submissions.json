@@ -1,4 +1,20 @@
 {
+  "AC28506026": {
+    "contest_id": "abc234",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc234\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Arithmetic Number",
+    "problem_url": "https://atcoder.jp/contests/abc234/tasks/abc234_e",
+    "submission_id": "AC28506026",
+    "submission_url": "https://atcoder.jp/contests/abc234/submissions/28506026",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/14/2022 17:23"
+  },
   "AC28512885": {
     "contest_id": "abc234",
     "language": "C++ (GCC 9.2.1)",
