@@ -2640,6 +2640,23 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF142999370": {
+    "contest_id": 1626,
+    "language": "GNU C++17",
+    "path": "codeforces\\1626\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minor Reduction",
+    "problem_url": "https://codeforces.com/contest/1626/problem/B",
+    "submission_id": "CF142999370",
+    "submission_url": "https://codeforces.com/contest/1626/submission/142999370",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Jan/16/2022 22:12"
+  },
   "CF147230103": {
     "contest_id": 573,
     "language": "GNU C++17",
