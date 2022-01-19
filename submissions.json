@@ -1,4 +1,20 @@
 {
+  "AC28627503": {
+    "contest_id": "abc233",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc233\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Count Interval",
+    "problem_url": "https://atcoder.jp/contests/abc233/tasks/abc233_d",
+    "submission_id": "AC28627503",
+    "submission_url": "https://atcoder.jp/contests/abc233/submissions/28627503",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/19/2022 09:48"
+  },
   "AC28627950": {
     "contest_id": "abc233",
     "language": "C++ (GCC 9.2.1)",
