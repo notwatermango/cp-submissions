@@ -1,4 +1,20 @@
 {
+  "AC28683494": {
+    "contest_id": "arc133",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc133\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Erase by Value",
+    "problem_url": "https://atcoder.jp/contests/arc133/tasks/arc133_a",
+    "submission_id": "AC28683494",
+    "submission_url": "https://atcoder.jp/contests/arc133/submissions/28683494",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/22/2022 19:10"
+  },
   "AC28720852": {
     "contest_id": "abc236",
     "language": "C++ (GCC 9.2.1)",
