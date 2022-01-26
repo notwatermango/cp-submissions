@@ -1,4 +1,20 @@
 {
+  "AC28804082": {
+    "contest_id": "abc236",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc236\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Dance",
+    "problem_url": "https://atcoder.jp/contests/abc236/tasks/abc236_d",
+    "submission_id": "AC28804082",
+    "submission_url": "https://atcoder.jp/contests/abc236/submissions/28804082",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/26/2022 11:05"
+  },
   "AC28804256": {
     "contest_id": "abc231",
     "language": "C++ (GCC 9.2.1)",
