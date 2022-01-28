@@ -1,4 +1,20 @@
 {
+  "AC28834761": {
+    "contest_id": "abc231",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc231\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Minimal payments",
+    "problem_url": "https://atcoder.jp/contests/abc231/tasks/abc231_e",
+    "submission_id": "AC28834761",
+    "submission_url": "https://atcoder.jp/contests/abc231/submissions/28834761",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/28/2022 11:16"
+  },
   "AC28859388": {
     "contest_id": "arc134",
     "language": "C++ (GCC 9.2.1)",
