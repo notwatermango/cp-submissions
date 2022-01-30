@@ -48,57 +48,59 @@ signed main(){
   }
   return water;
 }
+int n,m;
+vector<int> h;
+vector<vector<pair<int,int>>> adj;
+vector<int> hp;
+
+void bfs() {
+  hp[0] = 0;
+  queue<int> q;
+  q.push(0);
+  while (not q.empty())
+  {
+    int now = q.front();
+    q.pop();
+    for(auto e: adj[now]) {
+      // mango(e);
+      int dist = e.first;
+      int next = e.second;
+      if(hp[next] < hp[now] + dist) {
+        mango(hp[now]);
+        mango(dist);
+        hp[next] = hp[now] + dist;
+        q.push(next);
+      }
+    }
+  }
+  
+}
 
 void solv(){
-  int n,m;
   cin >> n >> m;
-  int h[n];
+  h.assign(n,0);
+  hp.assign(n,-LLINF);
+  adj.assign(n, vector<pair<int,int>>());
   for (int i = 0; i < n; i++)
   {
     cin >> h[i];
   }
-  vector<vector<int>> adj(n);
+  int fr, to;
   for (int i = 0; i < m; i++)
   {
-    int u,v;
-    cin >> u >> v;
-    u--;v--;
-    adj[u].push_back(v);
-    adj[v].push_back(u);
+    cin >> fr >> to;
+    fr--;to--;
+    int dist = abs(h[fr]-h[to]);
+    if(h[fr] < h[to]) swap(fr, to);
+    adj[fr].push_back(mp(dist,to));
+    adj[to].push_back(mp(-2*dist, fr));
   }
-  priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
-
-  vector<int> sp(n, LLINF);
-  sp[0] = 0;
-  pq.push(mp(0,0));
-  while (!pq.empty())
-  {
-    int hpnow = pq.top().first;
-    int u = pq.top().second;
-    pq.pop();
-    for(auto v: adj[u]) {
-      int dist = h[v] - h[u];
-      dist = max(dist, (int)0);
-      if(hpnow + dist < sp[v]) {
-        sp[v] = hpnow+dist;
-        pq.push(mp(hpnow + dist, v));
-      }
-
-    }
+  bfs();
+  mango(hp);
+  int mx = -LLINF;
+  for(auto e:hp){
+    mx = max(mx, e);
   }
-
-  mango(sp);
-  int ans = 0;
-  for (int i = 0; i < n; i++)
-  {
-    ans = max(ans, h[0] - h[i] - sp[i]);
-  }
-  cout << ans << '\n';
-  
-  
-
-
-
-  
+  cout << mx << '\n';
   
 }
