@@ -52,40 +52,80 @@ signed main(){
   return water;
 }
 
-
-/* nCr */
-vector<int> fac,finv,inv;
-
-void c_init() {
-  fac.resize(YSS);
-  finv.resize(YSS);
-  inv.resize(YSS);
-  fac[0] = fac[1] = 1;
-  inv[1] = 1;
-  finv[0] = finv[1] = 1;
-  for(int i=2; i<YSS; i++){
-    fac[i] = fac[i-1]*i%MOD;
-    inv[i] = MOD-MOD/i*inv[MOD%i]%MOD;
-    finv[i] = finv[i-1]*inv[i]%MOD;
+class mint {
+  int x;
+public:
+  mint(int x=0) : x((x%MOD+MOD)%MOD) {}
+  mint operator-() const { 
+    return mint(-x);
   }
-}
-int ncr(int n, int r){
-  if(n<r || n<0 || r<0) return 0;
-  // return fac[n]*finv[r]%MOD*finv[n-r]%MOD;
-  int res = finv[r]%MOD;
-  for (int i = 0; i < r; i++)
-  {
-    res *= n-i;
-    res%=MOD;
+  mint& operator+=(const mint& a) {
+    if ((x += a.x) >= MOD) x -= MOD;
+    return *this;
   }
+  mint& operator-=(const mint& a) {
+    if ((x += MOD-a.x) >= MOD) x -= MOD;
+    return *this;
+  }
+  mint& operator*=(const  mint& a) {
+    (x *= a.x) %= MOD;
+    return *this;
+  }
+  mint operator+(const mint& a) const {
+    mint res(*this);
+    return res+=a;
+  }
+  mint operator-(const mint& a) const {
+    mint res(*this);
+    return res-=a;
+  }
+  mint operator*(const mint& a) const {
+    mint res(*this);
+    return res*=a;
+  }
+  mint pow(int t) const {
+    if (!t) return 1;
+    mint a = pow(t>>1);
+    a *= a;
+    if (t&1) a *= *this;
+    return a;
+  }
+  mint inv() const {
+    return pow(MOD-2);
+  }
+  mint& operator/=(const mint& a) {
+    return (*this) *= a.inv();
+  }
+  mint operator/(const mint& a) const {
+    mint res(*this);
+    return res/=a;
+  }
+  friend ostream& operator<<(ostream& os, const mint& m){
+    os << m.x;
+    return os;
+  }
+};
+
+map<int,mint> ct;
+
+mint ncr(int n,int r){
+  if(ct.count(n)==1)return ct[n];
+  if(n<r)return 1;
+  if(n<=0||r<=0)return 1;
+  mint res=1;
+  for(int i = 0; i < r; i++){
+    res*=n-i;
+    res/=i+1;
+  }
+  ct[n]=res;
   return res;
 }
-/* ~nCr*/
 
 void solv(){
   int n; cin >> n;
   int k; cin >> k;
   int arr[n];
+  // int sum =0;
   for (int i = 0; i < n; i++)
   {
     cin >> arr[i];
@@ -101,13 +141,11 @@ void solv(){
     return;
   }
 
-  int res = 1;
+  mint res = 1;
 
-  c_init();
   for (int i = 0; i < n; i++)
   { 
     res*= ncr(arr[i]+k-1, k-1);
-    res%=MOD;
   }
 
   cout << res << '\n';
