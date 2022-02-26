@@ -69,10 +69,8 @@ void c_init() {
     finv[i] = finv[i-1]*inv[i]%MOD;
   }
 }
-map<int,int> bruh;
 int ncr(int n, int r){
   if(n<r || n<0 || r<0) return 0;
-  if(bruh.count(n)) return bruh[n];
   // return fac[n]*finv[r]%MOD*finv[n-r]%MOD;
   int res = finv[r]%MOD;
   for (int i = 0; i < r; i++)
@@ -80,7 +78,7 @@ int ncr(int n, int r){
     res *= n-i;
     res%=MOD;
   }
-  return bruh[n] = res;
+  return res;
 }
 /* ~nCr*/
 
