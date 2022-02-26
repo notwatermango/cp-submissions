@@ -1,4 +1,20 @@
 {
+  "AC29650506": {
+    "contest_id": "arc135",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc135\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Sum of Three Terms",
+    "problem_url": "https://atcoder.jp/contests/arc135/tasks/arc135_b",
+    "submission_id": "AC29650506",
+    "submission_url": "https://atcoder.jp/contests/arc135/submissions/29650506",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Feb/26/2022 11:59"
+  },
   "AC29653447": {
     "contest_id": "arc134",
     "language": "C++ (GCC 9.2.1)",
