@@ -1,4 +1,20 @@
 {
+  "AC29742077": {
+    "contest_id": "arc136",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc136\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "A \u2194 BB",
+    "problem_url": "https://atcoder.jp/contests/arc136/tasks/arc136_a",
+    "submission_id": "AC29742077",
+    "submission_url": "https://atcoder.jp/contests/arc136/submissions/29742077",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/27/2022 19:09"
+  },
   "AC29753211": {
     "contest_id": "arc136",
     "language": "C++ (GCC 9.2.1)",
