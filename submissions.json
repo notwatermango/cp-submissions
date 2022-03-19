@@ -1,4 +1,20 @@
 {
+  "AC30233089": {
+    "contest_id": "arc137",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc137\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Coprime Pair",
+    "problem_url": "https://atcoder.jp/contests/arc137/tasks/arc137_a",
+    "submission_id": "AC30233089",
+    "submission_url": "https://atcoder.jp/contests/arc137/submissions/30233089",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/19/2022 19:24"
+  },
   "AC30234795": {
     "contest_id": "arc137",
     "language": "C++ (GCC 9.2.1)",
