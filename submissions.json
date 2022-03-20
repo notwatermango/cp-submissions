@@ -1,4 +1,20 @@
 {
+  "AC30267050": {
+    "contest_id": "abc244",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc244\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Last Letter",
+    "problem_url": "https://atcoder.jp/contests/abc244/tasks/abc244_a",
+    "submission_id": "AC30267050",
+    "submission_url": "https://atcoder.jp/contests/abc244/submissions/30267050",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/20/2022 19:00"
+  },
   "AC30272150": {
     "contest_id": "abc244",
     "language": "C++ (GCC 9.2.1)",
