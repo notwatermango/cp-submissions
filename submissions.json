@@ -2640,6 +2640,22 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF150477542": {
+    "contest_id": 1657,
+    "language": "GNU C++17",
+    "path": "codeforces\\1657\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "XY Sequence",
+    "problem_url": "https://codeforces.com/contest/1657/problem/B",
+    "submission_id": "CF150477542",
+    "submission_url": "https://codeforces.com/contest/1657/submission/150477542",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Mar/22/2022 21:56"
+  },
   "CF150492701": {
     "contest_id": 1657,
     "language": "GNU C++17",
