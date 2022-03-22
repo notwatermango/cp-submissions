@@ -1,4 +1,20 @@
 {
+  "AC30346748": {
+    "contest_id": "abc244",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc244\\G.cpp",
+    "platform": "AtCoder",
+    "problem_index": "G",
+    "problem_name": "Construct Good Path",
+    "problem_url": "https://atcoder.jp/contests/abc244/tasks/abc244_g",
+    "submission_id": "AC30346748",
+    "submission_url": "https://atcoder.jp/contests/abc244/submissions/30346748",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Mar/22/2022 16:12"
+  },
   "AC30377787": {
     "contest_id": "abc231",
     "language": "C++ (GCC 9.2.1)",
