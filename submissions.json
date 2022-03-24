@@ -1,4 +1,20 @@
 {
+  "AC30377787": {
+    "contest_id": "abc231",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc231\\F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Jealous Two",
+    "problem_url": "https://atcoder.jp/contests/abc231/tasks/abc231_f",
+    "submission_id": "AC30377787",
+    "submission_url": "https://atcoder.jp/contests/abc231/submissions/30377787",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Mar/24/2022 10:36"
+  },
   "AC30378845": {
     "contest_id": "abc232",
     "language": "C++ (GCC 9.2.1)",
