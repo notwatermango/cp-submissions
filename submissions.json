@@ -1,4 +1,20 @@
 {
+  "AC30378845": {
+    "contest_id": "abc232",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc232\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Rook Path",
+    "problem_url": "https://atcoder.jp/contests/abc232/tasks/abc232_e",
+    "submission_id": "AC30378845",
+    "submission_url": "https://atcoder.jp/contests/abc232/submissions/30378845",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Mar/24/2022 12:14"
+  },
   "AC30402686": {
     "contest_id": "abc240",
     "language": "C++ (GCC 9.2.1)",
