@@ -1,4 +1,20 @@
 {
+  "AC30523634": {
+    "contest_id": "abc236",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc236\\F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Spices",
+    "problem_url": "https://atcoder.jp/contests/abc236/tasks/abc236_f",
+    "submission_id": "AC30523634",
+    "submission_url": "https://atcoder.jp/contests/abc236/submissions/30523634",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Mar/28/2022 10:49"
+  },
   "AC30626252": {
     "contest_id": "abc246",
     "language": "C++ (GCC 9.2.1)",
