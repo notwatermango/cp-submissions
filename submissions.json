@@ -2640,6 +2640,22 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF152335457": {
+    "contest_id": 1663,
+    "language": "GNU C++17",
+    "path": "codeforces\\1663\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "P\u014dja Verdon",
+    "problem_url": "https://codeforces.com/contest/1663/problem/C",
+    "submission_id": "CF152335457",
+    "submission_url": "https://codeforces.com/contest/1663/submission/152335457",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Apr/01/2022 21:57"
+  },
   "CF152349493": {
     "contest_id": 1663,
     "language": "GNU C++17",
