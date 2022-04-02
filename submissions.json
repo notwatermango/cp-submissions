@@ -1,4 +1,20 @@
 {
+  "AC30626252": {
+    "contest_id": "abc246",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc246\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Four Points",
+    "problem_url": "https://atcoder.jp/contests/abc246/tasks/abc246_a",
+    "submission_id": "AC30626252",
+    "submission_url": "https://atcoder.jp/contests/abc246/submissions/30626252",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Apr/02/2022 19:02"
+  },
   "AC30630781": {
     "contest_id": "abc246",
     "language": "C++ (GCC 9.2.1)",
