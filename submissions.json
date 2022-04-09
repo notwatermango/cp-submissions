@@ -1,4 +1,20 @@
 {
+  "AC30823298": {
+    "contest_id": "arc138",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc138\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Rotate and Play Game",
+    "problem_url": "https://atcoder.jp/contests/arc138/tasks/arc138_c",
+    "submission_id": "AC30823298",
+    "submission_url": "https://atcoder.jp/contests/arc138/submissions/30823298",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Apr/09/2022 20:40"
+  },
   "AC30847422": {
     "contest_id": "abc247",
     "language": "C++ (GCC 9.2.1)",
