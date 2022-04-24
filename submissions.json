@@ -1,4 +1,20 @@
 {
+  "AC31239512": {
+    "contest_id": "arc139",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc139\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Trailing Zeros",
+    "problem_url": "https://atcoder.jp/contests/arc139/tasks/arc139_a",
+    "submission_id": "AC31239512",
+    "submission_url": "https://atcoder.jp/contests/arc139/submissions/31239512",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Apr/24/2022 19:37"
+  },
   "AC31482502": {
     "contest_id": "arc139",
     "language": "C++ (GCC 9.2.1)",
