@@ -1,4 +1,20 @@
 {
+  "AC31482502": {
+    "contest_id": "arc139",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc139\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Make N",
+    "problem_url": "https://atcoder.jp/contests/arc139/tasks/arc139_b",
+    "submission_id": "AC31482502",
+    "submission_url": "https://atcoder.jp/contests/arc139/submissions/31482502",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "May/07/2022 13:13"
+  },
   "AC31488176": {
     "contest_id": "abc248",
     "language": "C++ (GCC 9.2.1)",
