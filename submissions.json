@@ -2640,6 +2640,22 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF157026211": {
+    "contest_id": 1680,
+    "language": "GNU C++17",
+    "path": "codeforces\\1680\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Robots",
+    "problem_url": "https://codeforces.com/contest/1680/problem/B",
+    "submission_id": "CF157026211",
+    "submission_url": "https://codeforces.com/contest/1680/submission/157026211",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/13/2022 21:45"
+  },
   "CF157060070": {
     "contest_id": 1680,
     "language": "GNU C++17",
