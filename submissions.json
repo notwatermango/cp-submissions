@@ -1,4 +1,20 @@
 {
+  "AC31721332": {
+    "contest_id": "arc140",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc140\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Shorten ARC",
+    "problem_url": "https://atcoder.jp/contests/arc140/tasks/arc140_b",
+    "submission_id": "AC31721332",
+    "submission_url": "https://atcoder.jp/contests/arc140/submissions/31721332",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "May/15/2022 19:49"
+  },
   "AC31723867": {
     "contest_id": "arc140",
     "language": "C++ (GCC 9.2.1)",
