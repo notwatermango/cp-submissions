@@ -1,4 +1,20 @@
 {
+  "AC31723867": {
+    "contest_id": "arc140",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc140\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Right String",
+    "problem_url": "https://atcoder.jp/contests/arc140/tasks/arc140_a",
+    "submission_id": "AC31723867",
+    "submission_url": "https://atcoder.jp/contests/arc140/submissions/31723867",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/15/2022 20:10"
+  },
   "AC31833635": {
     "contest_id": "abc252",
     "language": "C++ (GCC 9.2.1)",
