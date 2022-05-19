@@ -2640,6 +2640,25 @@
     ],
     "timestamp": "Oct/11/2021 13:09"
   },
+  "CF157634253": {
+    "contest_id": 1573,
+    "language": "GNU C++17",
+    "path": "codeforces\\1573\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Book",
+    "problem_url": "https://codeforces.com/contest/1573/problem/C",
+    "submission_id": "CF157634253",
+    "submission_url": "https://codeforces.com/contest/1573/submission/157634253",
+    "tags": [
+      "data structures",
+      "dp",
+      "graphs",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/19/2022 14:37"
+  },
   "CF157832636": {
     "contest_id": 1581,
     "language": "GNU C++17",
