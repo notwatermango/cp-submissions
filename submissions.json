@@ -1,4 +1,20 @@
 {
+  "AC31877690": {
+    "contest_id": "abc252",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc252\\F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Bread",
+    "problem_url": "https://atcoder.jp/contests/abc252/tasks/abc252_f",
+    "submission_id": "AC31877690",
+    "submission_url": "https://atcoder.jp/contests/abc252/submissions/31877690",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "May/21/2022 20:52"
+  },
   "AC31878472": {
     "contest_id": "abc252",
     "language": "C++ (GCC 9.2.1)",
