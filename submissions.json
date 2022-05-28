@@ -1,4 +1,20 @@
 {
+  "AC32060075": {
+    "contest_id": "abc253",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc253\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Distance Sequence",
+    "problem_url": "https://atcoder.jp/contests/abc253/tasks/abc253_e",
+    "submission_id": "AC32060075",
+    "submission_url": "https://atcoder.jp/contests/abc253/submissions/32060075",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "May/28/2022 21:09"
+  },
   "AC32060418": {
     "contest_id": "abc253",
     "language": "C++ (GCC 9.2.1)",
