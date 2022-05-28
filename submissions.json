@@ -1,4 +1,20 @@
 {
+  "AC32047940": {
+    "contest_id": "abc253",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc253\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Max - Min Query",
+    "problem_url": "https://atcoder.jp/contests/abc253/tasks/abc253_c",
+    "submission_id": "AC32047940",
+    "submission_url": "https://atcoder.jp/contests/abc253/submissions/32047940",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/28/2022 20:22"
+  },
   "AC32060075": {
     "contest_id": "abc253",
     "language": "C++ (GCC 9.2.1)",
