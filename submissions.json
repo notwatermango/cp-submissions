@@ -2495,6 +2495,22 @@
     ],
     "timestamp": "May/28/2022 21:13"
   },
+  "AC34342931": {
+    "contest_id": "abc251",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc251\\F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Two Spanning Trees",
+    "problem_url": "https://atcoder.jp/contests/abc251/tasks/abc251_f",
+    "submission_id": "AC34342931",
+    "submission_url": "https://atcoder.jp/contests/abc251/submissions/34342931",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Aug/26/2022 13:56"
+  },
   "AC34435735": {
     "contest_id": "abc254",
     "language": "C++ (GCC 9.2.1)",
