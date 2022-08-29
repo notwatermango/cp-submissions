@@ -2495,6 +2495,22 @@
     ],
     "timestamp": "May/28/2022 21:13"
   },
+  "AC34435778": {
+    "contest_id": "abc254",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc254\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Practical Computing",
+    "problem_url": "https://atcoder.jp/contests/abc254/tasks/abc254_b",
+    "submission_id": "AC34435778",
+    "submission_url": "https://atcoder.jp/contests/abc254/submissions/34435778",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/29/2022 10:35"
+  },
   "AC34435870": {
     "contest_id": "abc254",
     "language": "C++ (GCC 9.2.1)",
