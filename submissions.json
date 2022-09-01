@@ -2495,6 +2495,22 @@
     ],
     "timestamp": "May/28/2022 21:13"
   },
+  "AC34489645": {
+    "contest_id": "abc255",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc255\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Lucky Numbers",
+    "problem_url": "https://atcoder.jp/contests/abc255/tasks/abc255_e",
+    "submission_id": "AC34489645",
+    "submission_url": "https://atcoder.jp/contests/abc255/submissions/34489645",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Sep/01/2022 14:19"
+  },
   "AC34504916": {
     "contest_id": "abc255",
     "language": "C++ (GCC 9.2.1)",
