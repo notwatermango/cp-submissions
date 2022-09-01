@@ -2495,6 +2495,22 @@
     ],
     "timestamp": "May/28/2022 21:13"
   },
+  "AC34487282": {
+    "contest_id": "abc255",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc255\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Light It Up",
+    "problem_url": "https://atcoder.jp/contests/abc255/tasks/abc255_b",
+    "submission_id": "AC34487282",
+    "submission_url": "https://atcoder.jp/contests/abc255/submissions/34487282",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/01/2022 11:30"
+  },
   "AC34487497": {
     "contest_id": "abc255",
     "language": "C++ (GCC 9.2.1)",
