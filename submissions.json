@@ -2495,6 +2495,22 @@
     ],
     "timestamp": "May/28/2022 21:13"
   },
+  "AC34504916": {
+    "contest_id": "abc255",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc255\\F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Pre-order and In-order",
+    "problem_url": "https://atcoder.jp/contests/abc255/tasks/abc255_f",
+    "submission_id": "AC34504916",
+    "submission_url": "https://atcoder.jp/contests/abc255/submissions/34504916",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Sep/02/2022 11:51"
+  },
   "CF131171956": {
     "contest_id": 1594,
     "language": "GNU C++17",
