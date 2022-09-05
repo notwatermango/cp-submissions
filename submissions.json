@@ -2703,6 +2703,22 @@
     ],
     "timestamp": "Sep/02/2022 11:51"
   },
+  "AC34628148": {
+    "contest_id": "abc256",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc256\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Batters",
+    "problem_url": "https://atcoder.jp/contests/abc256/tasks/abc256_b",
+    "submission_id": "AC34628148",
+    "submission_url": "https://atcoder.jp/contests/abc256/submissions/34628148",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/05/2022 09:26"
+  },
   "AC34628602": {
     "contest_id": "abc256",
     "language": "C++ (GCC 9.2.1)",
