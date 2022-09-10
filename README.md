@@ -7,32 +7,33 @@ Atcoder and Codeforces
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-507 | [E - Many Operations](https://atcoder.jp/contests/abc261/tasks/abc261_e) | [C++ (GCC 9.2.1)](./atcoder/abc261/E.cpp) | `AtCoder` `*500` | Dec/03/2022 07:03 | 
-506 | [D - Flipping and Bonus](https://atcoder.jp/contests/abc261/tasks/abc261_d) | [C++ (GCC 9.2.1)](./atcoder/abc261/D.cpp) | `AtCoder` `*400` | Dec/03/2022 06:09 | 
-505 | [C - NewFolder(1)](https://atcoder.jp/contests/abc261/tasks/abc261_c) | [C++ (GCC 9.2.1)](./atcoder/abc261/C.cpp) | `AtCoder` `*300` | Dec/03/2022 05:54 | 
-504 | [B - Tournament Result](https://atcoder.jp/contests/abc261/tasks/abc261_b) | [C++ (GCC 9.2.1)](./atcoder/abc261/B.cpp) | `AtCoder` `*200` | Dec/03/2022 05:51 | 
-503 | [A - Intersection](https://atcoder.jp/contests/abc261/tasks/abc261_a) | [C++ (GCC 9.2.1)](./atcoder/abc261/A.cpp) | `AtCoder` `*100` | Dec/03/2022 05:44 | 
-502 | [E - RLE](https://atcoder.jp/contests/abc249/tasks/abc249_e) | [C++ (GCC 9.2.1)](./atcoder/abc249/E.cpp) | `AtCoder` `*500` | Dec/02/2022 12:21 | 
-501 | [E - At Least One](https://atcoder.jp/contests/abc260/tasks/abc260_e) | [C++ (GCC 9.2.1)](./atcoder/abc260/E.cpp) | `AtCoder` `*500` | Dec/01/2022 12:48 | 
-500 | [D - Draw Your Cards](https://atcoder.jp/contests/abc260/tasks/abc260_d) | [C++ (GCC 9.2.1)](./atcoder/abc260/D.cpp) | `AtCoder` `*400` | Dec/01/2022 11:14 | 
-499 | [C - Changing Jewels](https://atcoder.jp/contests/abc260/tasks/abc260_c) | [C++ (GCC 9.2.1)](./atcoder/abc260/C.cpp) | `AtCoder` `*300` | Dec/01/2022 10:59 | 
-498 | [B - Better Students Are Needed!](https://atcoder.jp/contests/abc260/tasks/abc260_b) | [C++ (GCC 9.2.1)](./atcoder/abc260/B.cpp) | `AtCoder` `*200` | Dec/01/2022 10:51 | 
-497 | [A - A Unique Letter](https://atcoder.jp/contests/abc260/tasks/abc260_a) | [C++ (GCC 9.2.1)](./atcoder/abc260/A.cpp) | `AtCoder` `*100` | Dec/01/2022 10:42 | 
-496 | [E - LCM on Whiteboard](https://atcoder.jp/contests/abc259/tasks/abc259_e) | [C++ (GCC 9.2.1)](./atcoder/abc259/E.cpp) | `AtCoder` `*500` | Nov/30/2022 23:22 | 
-495 | [D - Circumferences](https://atcoder.jp/contests/abc259/tasks/abc259_d) | [C++ (GCC 9.2.1)](./atcoder/abc259/D.cpp) | `AtCoder` `*400` | Nov/30/2022 22:44 | 
-494 | [C - XX to XXX](https://atcoder.jp/contests/abc259/tasks/abc259_c) | [C++ (GCC 9.2.1)](./atcoder/abc259/C.cpp) | `AtCoder` `*300` | Nov/30/2022 22:29 | 
-493 | [B - Counterclockwise Rotation](https://atcoder.jp/contests/abc259/tasks/abc259_b) | [C++ (GCC 9.2.1)](./atcoder/abc259/B.cpp) | `AtCoder` `*200` | Nov/30/2022 22:15 | 
-492 | [A - Growth Record](https://atcoder.jp/contests/abc259/tasks/abc259_a) | [C++ (GCC 9.2.1)](./atcoder/abc259/A.cpp) | `AtCoder` `*100` | Nov/30/2022 21:32 | 
-491 | [E - Packing Potatoes](https://atcoder.jp/contests/abc258/tasks/abc258_e) | [C++ (GCC 9.2.1)](./atcoder/abc258/E.cpp) | `AtCoder` `*500` | Nov/30/2022 14:17 | 
-490 | [F - Main Street](https://atcoder.jp/contests/abc258/tasks/abc258_f) | [C++ (GCC 9.2.1)](./atcoder/abc258/F.cpp) | `AtCoder` `*500` | Nov/29/2022 22:14 | 
-489 | [D - Trophy](https://atcoder.jp/contests/abc258/tasks/abc258_d) | [C++ (GCC 9.2.1)](./atcoder/abc258/D.cpp) | `AtCoder` `*400` | Nov/29/2022 21:16 | 
-488 | [C - Rotation](https://atcoder.jp/contests/abc258/tasks/abc258_c) | [C++ (GCC 9.2.1)](./atcoder/abc258/C.cpp) | `AtCoder` `*300` | Nov/29/2022 21:12 | 
-487 | [B - Number Box](https://atcoder.jp/contests/abc258/tasks/abc258_b) | [C++ (GCC 9.2.1)](./atcoder/abc258/B.cpp) | `AtCoder` `*200` | Nov/29/2022 21:08 | 
-486 | [A - When?](https://atcoder.jp/contests/abc258/tasks/abc258_a) | [C++ (GCC 9.2.1)](./atcoder/abc258/A.cpp) | `AtCoder` `*100` | Nov/29/2022 21:02 | 
-485 | [F - Teleporter Setting](https://atcoder.jp/contests/abc257/tasks/abc257_f) | [C++ (GCC 9.2.1)](./atcoder/abc257/F.cpp) | `AtCoder` `*500` | Sep/14/2022 11:19 | 
-484 | [E - Addition and Multiplication 2](https://atcoder.jp/contests/abc257/tasks/abc257_e) | [C++ (GCC 9.2.1)](./atcoder/abc257/E.cpp) | `AtCoder` `*500` | Sep/10/2022 10:13 | 
-483 | [D - Jumping Takahashi 2](https://atcoder.jp/contests/abc257/tasks/abc257_d) | [C++ (GCC 9.2.1)](./atcoder/abc257/D.cpp) | `AtCoder` `*400` | Sep/10/2022 09:46 | 
-482 | [C - Robot Takahashi](https://atcoder.jp/contests/abc257/tasks/abc257_c) | [C++ (GCC 9.2.1)](./atcoder/abc257/C.cpp) | `AtCoder` `*300` | Sep/10/2022 09:28 | 
+508 | [E - Many Operations](https://atcoder.jp/contests/abc261/tasks/abc261_e) | [C++ (GCC 9.2.1)](./atcoder/abc261/E.cpp) | `AtCoder` `*500` | Dec/03/2022 07:03 | 
+507 | [D - Flipping and Bonus](https://atcoder.jp/contests/abc261/tasks/abc261_d) | [C++ (GCC 9.2.1)](./atcoder/abc261/D.cpp) | `AtCoder` `*400` | Dec/03/2022 06:09 | 
+506 | [C - NewFolder(1)](https://atcoder.jp/contests/abc261/tasks/abc261_c) | [C++ (GCC 9.2.1)](./atcoder/abc261/C.cpp) | `AtCoder` `*300` | Dec/03/2022 05:54 | 
+505 | [B - Tournament Result](https://atcoder.jp/contests/abc261/tasks/abc261_b) | [C++ (GCC 9.2.1)](./atcoder/abc261/B.cpp) | `AtCoder` `*200` | Dec/03/2022 05:51 | 
+504 | [A - Intersection](https://atcoder.jp/contests/abc261/tasks/abc261_a) | [C++ (GCC 9.2.1)](./atcoder/abc261/A.cpp) | `AtCoder` `*100` | Dec/03/2022 05:44 | 
+503 | [E - RLE](https://atcoder.jp/contests/abc249/tasks/abc249_e) | [C++ (GCC 9.2.1)](./atcoder/abc249/E.cpp) | `AtCoder` `*500` | Dec/02/2022 12:21 | 
+502 | [E - At Least One](https://atcoder.jp/contests/abc260/tasks/abc260_e) | [C++ (GCC 9.2.1)](./atcoder/abc260/E.cpp) | `AtCoder` `*500` | Dec/01/2022 12:48 | 
+501 | [D - Draw Your Cards](https://atcoder.jp/contests/abc260/tasks/abc260_d) | [C++ (GCC 9.2.1)](./atcoder/abc260/D.cpp) | `AtCoder` `*400` | Dec/01/2022 11:14 | 
+500 | [C - Changing Jewels](https://atcoder.jp/contests/abc260/tasks/abc260_c) | [C++ (GCC 9.2.1)](./atcoder/abc260/C.cpp) | `AtCoder` `*300` | Dec/01/2022 10:59 | 
+499 | [B - Better Students Are Needed!](https://atcoder.jp/contests/abc260/tasks/abc260_b) | [C++ (GCC 9.2.1)](./atcoder/abc260/B.cpp) | `AtCoder` `*200` | Dec/01/2022 10:51 | 
+498 | [A - A Unique Letter](https://atcoder.jp/contests/abc260/tasks/abc260_a) | [C++ (GCC 9.2.1)](./atcoder/abc260/A.cpp) | `AtCoder` `*100` | Dec/01/2022 10:42 | 
+497 | [E - LCM on Whiteboard](https://atcoder.jp/contests/abc259/tasks/abc259_e) | [C++ (GCC 9.2.1)](./atcoder/abc259/E.cpp) | `AtCoder` `*500` | Nov/30/2022 23:22 | 
+496 | [D - Circumferences](https://atcoder.jp/contests/abc259/tasks/abc259_d) | [C++ (GCC 9.2.1)](./atcoder/abc259/D.cpp) | `AtCoder` `*400` | Nov/30/2022 22:44 | 
+495 | [C - XX to XXX](https://atcoder.jp/contests/abc259/tasks/abc259_c) | [C++ (GCC 9.2.1)](./atcoder/abc259/C.cpp) | `AtCoder` `*300` | Nov/30/2022 22:29 | 
+494 | [B - Counterclockwise Rotation](https://atcoder.jp/contests/abc259/tasks/abc259_b) | [C++ (GCC 9.2.1)](./atcoder/abc259/B.cpp) | `AtCoder` `*200` | Nov/30/2022 22:15 | 
+493 | [A - Growth Record](https://atcoder.jp/contests/abc259/tasks/abc259_a) | [C++ (GCC 9.2.1)](./atcoder/abc259/A.cpp) | `AtCoder` `*100` | Nov/30/2022 21:32 | 
+492 | [E - Packing Potatoes](https://atcoder.jp/contests/abc258/tasks/abc258_e) | [C++ (GCC 9.2.1)](./atcoder/abc258/E.cpp) | `AtCoder` `*500` | Nov/30/2022 14:17 | 
+491 | [F - Main Street](https://atcoder.jp/contests/abc258/tasks/abc258_f) | [C++ (GCC 9.2.1)](./atcoder/abc258/F.cpp) | `AtCoder` `*500` | Nov/29/2022 22:14 | 
+490 | [D - Trophy](https://atcoder.jp/contests/abc258/tasks/abc258_d) | [C++ (GCC 9.2.1)](./atcoder/abc258/D.cpp) | `AtCoder` `*400` | Nov/29/2022 21:16 | 
+489 | [C - Rotation](https://atcoder.jp/contests/abc258/tasks/abc258_c) | [C++ (GCC 9.2.1)](./atcoder/abc258/C.cpp) | `AtCoder` `*300` | Nov/29/2022 21:12 | 
+488 | [B - Number Box](https://atcoder.jp/contests/abc258/tasks/abc258_b) | [C++ (GCC 9.2.1)](./atcoder/abc258/B.cpp) | `AtCoder` `*200` | Nov/29/2022 21:08 | 
+487 | [A - When?](https://atcoder.jp/contests/abc258/tasks/abc258_a) | [C++ (GCC 9.2.1)](./atcoder/abc258/A.cpp) | `AtCoder` `*100` | Nov/29/2022 21:02 | 
+486 | [F - Teleporter Setting](https://atcoder.jp/contests/abc257/tasks/abc257_f) | [C++ (GCC 9.2.1)](./atcoder/abc257/F.cpp) | `AtCoder` `*500` | Sep/14/2022 11:19 | 
+485 | [E - Addition and Multiplication 2](https://atcoder.jp/contests/abc257/tasks/abc257_e) | [C++ (GCC 9.2.1)](./atcoder/abc257/E.cpp) | `AtCoder` `*500` | Sep/10/2022 10:13 | 
+484 | [D - Jumping Takahashi 2](https://atcoder.jp/contests/abc257/tasks/abc257_d) | [C++ (GCC 9.2.1)](./atcoder/abc257/D.cpp) | `AtCoder` `*400` | Sep/10/2022 09:46 | 
+483 | [C - Robot Takahashi](https://atcoder.jp/contests/abc257/tasks/abc257_c) | [C++ (GCC 9.2.1)](./atcoder/abc257/C.cpp) | `AtCoder` `*300` | Sep/10/2022 09:28 | 
+482 | [B - 1D Pawn](https://atcoder.jp/contests/abc257/tasks/abc257_b) | [C++ (GCC 9.2.1)](./atcoder/abc257/B.cpp) | `AtCoder` `*200` | Sep/10/2022 09:12 | 
 481 | [F - Pre-order and In-order](https://atcoder.jp/contests/abc255/tasks/abc255_f) | [C++ (GCC 9.2.1)](./atcoder/abc255/F.cpp) | `AtCoder` `*500` | Sep/02/2022 11:51 | 
 480 | [E - Lucky Numbers](https://atcoder.jp/contests/abc255/tasks/abc255_e) | [C++ (GCC 9.2.1)](./atcoder/abc255/E.cpp) | `AtCoder` `*500` | Sep/01/2022 14:19 | 
 479 | [D - ±1 Operation 2](https://atcoder.jp/contests/abc255/tasks/abc255_d) | [C++ (GCC 9.2.1)](./atcoder/abc255/D.cpp) | `AtCoder` `*400` | Sep/01/2022 12:16 | 

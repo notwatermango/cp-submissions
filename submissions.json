@@ -2703,6 +2703,22 @@
     ],
     "timestamp": "Sep/02/2022 11:51"
   },
+  "AC34714894": {
+    "contest_id": "abc257",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc257\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "1D Pawn",
+    "problem_url": "https://atcoder.jp/contests/abc257/tasks/abc257_b",
+    "submission_id": "AC34714894",
+    "submission_url": "https://atcoder.jp/contests/abc257/submissions/34714894",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/10/2022 09:12"
+  },
   "AC34715084": {
     "contest_id": "abc257",
     "language": "C++ (GCC 9.2.1)",
