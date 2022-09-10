@@ -2703,6 +2703,22 @@
     ],
     "timestamp": "Sep/02/2022 11:51"
   },
+  "AC34715319": {
+    "contest_id": "abc257",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc257\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Jumping Takahashi 2",
+    "problem_url": "https://atcoder.jp/contests/abc257/tasks/abc257_d",
+    "submission_id": "AC34715319",
+    "submission_url": "https://atcoder.jp/contests/abc257/submissions/34715319",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Sep/10/2022 09:46"
+  },
   "AC34715592": {
     "contest_id": "abc257",
     "language": "C++ (GCC 9.2.1)",
