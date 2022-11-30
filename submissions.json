@@ -2703,6 +2703,22 @@
     ],
     "timestamp": "Sep/02/2022 11:51"
   },
+  "AC36902384": {
+    "contest_id": "abc259",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc259\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "LCM on Whiteboard",
+    "problem_url": "https://atcoder.jp/contests/abc259/tasks/abc259_e",
+    "submission_id": "AC36902384",
+    "submission_url": "https://atcoder.jp/contests/abc259/submissions/36902384",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Nov/30/2022 23:22"
+  },
   "AC36907032": {
     "contest_id": "abc260",
     "language": "C++ (GCC 9.2.1)",
