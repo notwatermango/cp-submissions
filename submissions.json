@@ -2703,6 +2703,22 @@
     ],
     "timestamp": "Sep/02/2022 11:51"
   },
+  "AC36908562": {
+    "contest_id": "abc260",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc260\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "At Least One",
+    "problem_url": "https://atcoder.jp/contests/abc260/tasks/abc260_e",
+    "submission_id": "AC36908562",
+    "submission_url": "https://atcoder.jp/contests/abc260/submissions/36908562",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Dec/01/2022 12:48"
+  },
   "AC36923733": {
     "contest_id": "abc249",
     "language": "C++ (GCC 9.2.1)",
