@@ -2703,6 +2703,22 @@
     ],
     "timestamp": "Sep/02/2022 11:51"
   },
+  "AC36935163": {
+    "contest_id": "abc261",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc261\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Intersection",
+    "problem_url": "https://atcoder.jp/contests/abc261/tasks/abc261_a",
+    "submission_id": "AC36935163",
+    "submission_url": "https://atcoder.jp/contests/abc261/submissions/36935163",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/03/2022 05:44"
+  },
   "AC36935199": {
     "contest_id": "abc261",
     "language": "C++ (GCC 9.2.1)",
