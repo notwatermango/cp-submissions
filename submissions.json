@@ -2703,6 +2703,22 @@
     ],
     "timestamp": "Sep/02/2022 11:51"
   },
+  "AC36935445": {
+    "contest_id": "abc261",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc261\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Many Operations",
+    "problem_url": "https://atcoder.jp/contests/abc261/tasks/abc261_e",
+    "submission_id": "AC36935445",
+    "submission_url": "https://atcoder.jp/contests/abc261/submissions/36935445",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Dec/03/2022 07:03"
+  },
   "CF131171956": {
     "contest_id": 1594,
     "language": "GNU C++17",
