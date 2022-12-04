@@ -3247,6 +3247,22 @@
     ],
     "timestamp": "Dec/03/2022 07:03"
   },
+  "AC37027939": {
+    "contest_id": "abc261",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc261\\F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Sorting Color Balls",
+    "problem_url": "https://atcoder.jp/contests/abc261/tasks/abc261_f",
+    "submission_id": "AC37027939",
+    "submission_url": "https://atcoder.jp/contests/abc261/submissions/37027939",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Dec/04/2022 21:53"
+  },
   "CF131171956": {
     "contest_id": 1594,
     "language": "GNU C++17",
